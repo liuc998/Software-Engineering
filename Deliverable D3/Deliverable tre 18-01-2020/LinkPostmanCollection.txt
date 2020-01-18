@@ -1,0 +1,17 @@
+https://documenter.getpostman.com/view/9362166/SWLYAqse
+
+Gli esempi di risposta e di errore sono collegati a:
+
+GET) 
+-Singolo edificio collegato a un dipartimento (1 esempio);
+-Singolo professore collegato a un edificio (1 esempio);
+-Lista CdL (2 esempi).
+
+POST)
+-Crea università (3 esempi);
+
+DELETE)
+-Cancella singolo professore (1 esempio);
+
+PATCH)
+-Modifica singolo utente (1 esempio);
