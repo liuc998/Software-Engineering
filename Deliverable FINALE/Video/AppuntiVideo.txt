@@ -1,0 +1,1 @@
+Per le ragioni esposte nella sezione "PROTOTIPO" del deliverable abbiamo creato una home solo a scopo di illustrare la struttura dell'interfaccia utente nel nostro progetto.

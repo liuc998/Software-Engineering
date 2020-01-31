@@ -1,0 +1,16 @@
+https://documenter.getpostman.com/view/9362166/SWLYAqse
+
+Considerando l'ingente numero di richieste create abbiamo aggiunto esempi di risposta ed errore ad una route per ogni verbo HTTP. 
+Le riportiamo di seguito:
+
+GET) 
+-Singolo edificio collegato a un dipartimento (3 esempi);
+
+POST)
+-Crea università (3 esempi);
+
+DELETE)
+-Cancella singolo professore (4 esempi);
+
+PATCH)
+-Modifica singolo utente (5 esempi);
